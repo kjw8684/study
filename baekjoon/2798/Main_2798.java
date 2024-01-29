@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Main_2798 {
 
     public static boolean setStdin(String path) {
         try {
